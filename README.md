@@ -1,4 +1,4 @@
-# Hi 👋, I'm Atakan Eryıldız
+# Hi 👋, I'm Atakan.
 
 ### 💻 Senior Full-Stack Developer
 
@@ -6,7 +6,7 @@ I'm a senior Flutter developer with experience spanning full-cycle mobile and we
 
 - 🔭 Freelancing through **Andora Apps** — end-to-end mobile & web development for startups
 - 📦 Building the mobile app for **[Kiraala](https://kiraala.com)**, a peer-to-peer rental marketplace
-- 🎧 Built **[TourSync](https://toursyncapp.com)** end-to-end (mobile, web, landing) — an AI-powered tour management platform for artists, DJs, and musicians
+- 🎧 Building **[TourSync](https://toursyncapp.com)** end-to-end (mobile, web, landing) — an AI-powered tour management platform for artists, DJs, and musicians
 - 🚗 Building **[Bulcar](https://bulcar.app)** — a carpooling platform with rider and driver apps, similar to Uber/Martı TAG
 - 🤝 Co-founder of **UHA AI Apps Studio**
 - 💼 Ex-**Co-founder & CEO** at Fuxi
