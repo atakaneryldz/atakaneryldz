@@ -2,9 +2,9 @@
 
 ### Senior Full-Stack Developer | 🚀 Building mobile & web apps from scratch | 💼 Open for freelance work
 
-I'm a senior Flutter developer with experience spanning full-cycle mobile and web development, technical leadership, and startup co-founding. I also build professional websites and web apps with Next.js and React, and native iOS apps with Swift. Currently building at **Andora Apps**, and open to freelance projects on the side.
+I'm a senior Flutter developer with experience spanning full-cycle mobile and web development, technical leadership, and startup co-founding. I also build professional websites and web apps with Next.js and React, and native iOS apps with Swift. Currently working freelance through **Andora Apps**, delivering end-to-end mobile and web products for startups.
 
-- 🔭 Currently working at **Andora Apps**
+- 🔭 Freelancing through **Andora Apps** — end-to-end mobile & web development for startups
 - 📦 Building the mobile app for **[Kiraala](https://kiraala.com)**, a peer-to-peer rental marketplace
 - 🎧 Built **[TourSync](https://toursyncapp.com)** end-to-end (mobile, web, landing) — an AI-powered tour management platform for artists, DJs, and musicians
 - 🤝 Co-founder of **UHA AI Apps Studio**
