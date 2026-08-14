@@ -4,11 +4,11 @@
 
 I'm a senior Flutter developer with experience spanning full-cycle mobile and web development, technical leadership, and startup co-founding. I also build professional websites and web apps with Next.js and React, and native iOS apps with Swift. Currently working freelance through **Andora Apps**, delivering end-to-end mobile and web products for startups.
 
-- 🔭 Freelancing through **Andora Apps** — end-to-end mobile & web development for startups
-- 📦 Building the mobile app for **[Kiraala](https://kiraala.com)**, a peer-to-peer rental marketplace
 - 🎧 Building **[TourSync](https://toursyncapp.com)** end-to-end (mobile, web, landing) — an AI-powered tour management platform for artists, DJs, and musicians
+- 📦 Building the mobile app for **[Kiraala](https://kiraala.com)**, a peer-to-peer rental marketplace
 - 🚗 Building **[Bulcar](https://bulcar.app)** — a carpooling platform with rider and driver apps, similar to Uber/Martı TAG
-- 🤝 Co-founder of **UHA AI Apps Studio**
+- 🔭 Freelancing through **Andora Apps** — end-to-end mobile & web development for startups
+- 🤝 Co-founder of **[UHA AI Apps Studio](https://studio.buproject.net)**
 - 💼 Ex-**Co-founder & CEO** at Fuxi
 - 📱 Ex-**Mobile Team Lead** at Pingpong University
 - ⚙️ Ex-**Co-founder & CTO** at Getarf Logistic (acquired by Lojimod)
