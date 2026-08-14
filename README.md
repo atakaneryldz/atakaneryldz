@@ -7,6 +7,7 @@ I'm a senior Flutter developer with experience spanning full-cycle mobile and we
 - 🔭 Freelancing through **Andora Apps** — end-to-end mobile & web development for startups
 - 📦 Building the mobile app for **[Kiraala](https://kiraala.com)**, a peer-to-peer rental marketplace
 - 🎧 Built **[TourSync](https://toursyncapp.com)** end-to-end (mobile, web, landing) — an AI-powered tour management platform for artists, DJs, and musicians
+- 🚗 Building **[Bulcar](https://bulcar.app)** — a carpooling platform with rider and driver apps, similar to Uber/Martı TAG
 - 🤝 Co-founder of **UHA AI Apps Studio**
 - 💼 Ex-**Co-founder & CEO** at Fuxi
 - 📱 Ex-**Mobile Team Lead** at Pingpong University
@@ -40,9 +41,13 @@ I'm a senior Flutter developer with experience spanning full-cycle mobile and we
 
 **[Kiraala](https://kiraala.com)** — A peer-to-peer rental marketplace where users rent everyday items (electronics, gear, and more) instead of buying them, while owners earn income listing what they're not using. I'm building the mobile app with Flutter, BLoC, GetIt, go_router, Dio, Google Maps, and Socket.IO for real-time messaging.
 
+**[Bulcar](https://bulcar.app)** — A carpooling platform connecting drivers and passengers traveling the same routes, splitting fuel and toll costs directly with real-time location tracking and verified profiles (similar to Uber/Martı TAG). I'm building both apps with Flutter, BLoC, and GetIt:
+- **Rider app** — for passengers to find and book shared rides
+- **Driver app** — for drivers to offer rides and manage trips
+
 **[fuxi_app_open](https://github.com/atakaneryldz/fuxi_app_open)** — Fuxi, a group shopping app for discovering and redeeming local deals. Built with Clean Architecture, BLoC, GetIt DI, go_router, and a modular feature-first structure.
 
-**[tazepaket_app](https://github.com/atakaneryldz/tazepaket_app)** — A Flutter marketplace app for buying discounted, surplus end-of-day food. Built with Clean Architecture, BLoC, a custom Dio auth-refresh pipeline, and a full design-system component library.
+**[tazepaket_app_open](https://github.com/atakaneryldz/tazepaket_app_open)** — A Flutter marketplace app for buying discounted, surplus end-of-day food. Built with Clean Architecture, BLoC, a custom Dio auth-refresh pipeline, and a full design-system component library.
 
 
 ## Connect
