@@ -1,6 +1,6 @@
 # Hi 👋, I'm Atakan Eryıldız
 
-### Senior Full-Stack Developer | 🚀 Building mobile & web apps from scratch | 💼 Open for freelance work
+### 💻 Senior Full-Stack Developer
 
 I'm a senior Flutter developer with experience spanning full-cycle mobile and web development, technical leadership, and startup co-founding. I also build professional websites and web apps with Next.js and React, and native iOS apps with Swift. Currently working freelance through **Andora Apps**, delivering end-to-end mobile and web products for startups.
 
