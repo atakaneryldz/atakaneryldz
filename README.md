@@ -8,7 +8,7 @@ I'm a senior Flutter developer with experience spanning full-cycle mobile and we
 - 📦 Building the mobile app for **[Kiraala](https://kiraala.com)**, a peer-to-peer rental marketplace
 - 🚗 Building **[Bulcar](https://bulcar.app)** — a carpooling platform with rider and driver apps, similar to Uber/Martı TAG
 - 🔭 Freelancing through **Andora Apps** — end-to-end mobile & web development for startups
-- 🤝 Builder of **[UHA AI Apps Studio](https://studio.buproject.net)**
+- 🤝 Builder at **[UHA AI Apps Studio](https://studio.buproject.net)**
 - 💼 Ex-**Co-founder & CEO** at Fuxi
 - 📱 Ex-**Mobile Team Lead** at Pingpong University
 - ⚙️ Ex-**Co-founder & CTO** at Getarf Logistic (acquired by Lojimod)
