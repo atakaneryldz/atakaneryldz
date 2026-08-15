@@ -2,6 +2,8 @@
 
 ### 💻 Senior Full-Stack Developer
 
+🎂 29 years old · 🛠️ 7 years of professional experience
+
 I'm a senior Flutter developer with experience spanning full-cycle mobile and web development, technical leadership, and startup co-founding. I also build professional websites and web apps with Next.js and React, and native iOS apps with Swift. Currently working freelance through **Andora Apps**, delivering end-to-end mobile and web products for startups.
 
 - 🎧 Building **[TourSync](https://toursyncapp.com)** end-to-end (mobile, web, landing) — an AI-powered tour management platform for artists, DJs, and musicians
