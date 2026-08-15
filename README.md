@@ -7,7 +7,7 @@
 I'm a senior Flutter developer with experience spanning full-cycle mobile and web development, technical leadership, and startup co-founding. I also build professional websites and web apps with Next.js and React, and native iOS apps with Swift. Currently working freelance through **Andora Apps**, delivering end-to-end mobile and web products for startups.
 
 - 🎧 Building **[TourSync](https://toursyncapp.com)** end-to-end (mobile, web, landing) — an AI-powered tour management platform for artists, DJs, and musicians
-- 📦 Building the mobile app for **[Kiraala](https://kiraala.com)**, a peer-to-peer rental marketplace
+- 📦 Building the mobile app for **[Kiraala](https://onelink.to/kiraala.app)**, a peer-to-peer rental marketplace
 - 🚗 Building **[Bulcar](https://bulcar.app)** — a carpooling platform with rider and driver apps, similar to Uber/Martı TAG
 - 🔭 Freelancing through **Andora Apps** — end-to-end mobile & web development for startups
 - 🤝 Builder at **[UHA AI Apps Studio](https://studio.buproject.net)**
@@ -41,7 +41,7 @@ I'm a senior Flutter developer with experience spanning full-cycle mobile and we
 - **Web app** — Built with Next.js, React, and Google Maps
 - **Landing page** — Built with Next.js and Framer Motion
 
-**[Kiraala](https://kiraala.com)** — A peer-to-peer rental marketplace where users rent everyday items (electronics, gear, and more) instead of buying them, while owners earn income listing what they're not using. I'm building the mobile app with Flutter, BLoC, GetIt, go_router, Dio, Google Maps, and Socket.IO for real-time messaging.
+**[Kiraala](https://onelink.to/kiraala.app)** — A peer-to-peer rental marketplace where users rent everyday items (electronics, gear, and more) instead of buying them, while owners earn income listing what they're not using. I'm building the mobile app with Flutter, BLoC, GetIt, go_router, Dio, Google Maps, and Socket.IO for real-time messaging.
 
 **[Bulcar](https://bulcar.app)** — A carpooling platform connecting drivers and passengers traveling the same routes, splitting fuel and toll costs directly with real-time location tracking and verified profiles (similar to Uber/Martı TAG). I'm building both apps with Flutter, BLoC, and GetIt:
 - **Rider app** — for passengers to find and book shared rides
