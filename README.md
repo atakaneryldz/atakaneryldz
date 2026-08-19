@@ -38,10 +38,10 @@ I'm a senior Flutter developer with experience spanning full-cycle mobile and we
 
 **[TourSync](https://toursyncapp.com)** — An AI-powered tour management platform for artists, DJs, and musicians, consolidating show planning, travel logistics, expense tracking, and team collaboration with an AI assistant for tour documentation and scheduling. I built the full stack:
 - **Mobile app** — Built with Flutter, BLoC, and GetIt
-- **Web app** — Built with Next.js, React, and Google Maps
-- **Landing page** — Built with Next.js and Framer Motion
+- **Web app** — Built with Next.js, React, and TypeScript
+- **Landing page** — Built with Next.js, React, and TypeScript
 
-**[Kiraala](https://onelink.to/kiraala.app)** — A peer-to-peer rental marketplace where users rent everyday items (electronics, gear, and more) instead of buying them, while owners earn income listing what they're not using. I'm building the mobile app with Flutter, BLoC, GetIt, go_router, Dio, Google Maps, and Socket.IO for real-time messaging.
+**[Kiraala](https://onelink.to/kiraala.app)** — A peer-to-peer rental marketplace where users rent everyday items (electronics, gear, and more) instead of buying them, while owners earn income listing what they're not using. I'm building the mobile app with Flutter, BLoC, GetIt, go_router, Dio, Google Maps, ChottuLink for deep linking and Socket.IO for real-time messaging.
 
 **[Bulcar](https://bulcar.app)** — A carpooling platform connecting drivers and passengers traveling the same routes, splitting fuel and toll costs directly with real-time location tracking and verified profiles (similar to Uber/Martı TAG). I'm building both apps with Flutter, BLoC, and GetIt:
 - **Rider app** — for passengers to find and book shared rides
