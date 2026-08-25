@@ -9,12 +9,11 @@ I'm a senior Flutter developer with experience spanning full-cycle mobile and we
 - 🎧 Building **[TourSync](https://toursyncapp.com)** end-to-end (mobile, web, landing) — an AI-powered tour management platform for artists, DJs, and musicians
 - 📦 Building the mobile app for **[Kiraala](https://onelink.to/kiraala.app)**, a peer-to-peer rental marketplace
 - 🚗 Building **[Bulcar](https://bulcar.app)** — a carpooling platform with rider and driver apps, similar to Uber/Martı TAG
-- 🔭 Freelancing through **Andora Apps** — end-to-end mobile & web development for startups
 - 🤖 Building AI-powered iOS apps — **[Tattooist](https://apps.apple.com/us/app/tattooist-ai-tattoo-design/id6744621155)**, **[Cevapla AI](https://apps.apple.com/tr/app/cevapla-ai-soru-%C3%A7%C3%B6z/id6742496559?l=tr)**, **[Insect Identifier](https://apps.apple.com/tr/app/insect-identifier-bug-ai/id6748743841?l=tr)**, and **[Relio AI](https://apps.apple.com/tr/app/relio-ai-contact-memory/id6779903795?l=tr)**
 - 💼 Ex-**Co-founder & CEO** at **[Fuxi](https://onelink.to/d7nn5t)**
 - 📱 Ex-**Mobile Team Lead** at **[Pingpong University](https://play.google.com/store/apps/details?id=university.unication.pingpong&hl=en)**
-- ⚙️ Ex-**Co-founder & CTO** at Getarf Logistic (acquired by Lojimod)
-- 👨‍💻 Ex-**Senior Flutter Developer** at Lojimod
+- ⚙️ Ex-**Co-founder & CTO** at **[Getarf Logistic](https://www.linkedin.com/company/get-arf/)** (acquired by Lojimod)
+- 👨‍💻 Ex-**Senior Flutter Developer** at **[Lojimod](https://lojimod.com/)**
 - 🏗️ I build apps end-to-end — architecture, UI, backend integration, release
 - 🌐 I also design and build professional websites and web apps with Next.js and React
 - 🍏 Native iOS development with Swift
