@@ -9,6 +9,7 @@ I'm a senior Flutter developer with experience spanning full-cycle mobile and we
 - 🎧 Building **[TourSync](https://toursyncapp.com)** end-to-end (mobile, web, landing) — an AI-powered tour management platform for artists, DJs, and musicians
 - 📦 Building the mobile app for **[Kiraala](https://onelink.to/kiraala.app)**, a peer-to-peer rental marketplace
 - 🚗 Building **[Bulcar](https://bulcar.app)** — a carpooling platform with rider and driver apps, similar to Uber/Martı TAG
+- 🏆 Building **[freelancebid](https://freelancebid.lol)** — a pay-to-play leaderboard where freelancers bid to claim a rank
 - 🤖 Building AI-powered iOS apps — **[Tattooist](https://apps.apple.com/us/app/tattooist-ai-tattoo-design/id6744621155)**, **[Cevapla AI](https://apps.apple.com/tr/app/cevapla-ai-soru-%C3%A7%C3%B6z/id6742496559?l=tr)**, **[Insect Identifier](https://apps.apple.com/tr/app/insect-identifier-bug-ai/id6748743841?l=tr)**, and **[Relio AI](https://apps.apple.com/tr/app/relio-ai-contact-memory/id6779903795?l=tr)**
 - 💼 Ex-**Co-founder & CEO** at **[Fuxi](https://onelink.to/d7nn5t)**
 - 📱 Ex-**Mobile Team Lead** at **[Pingpong University](https://play.google.com/store/apps/details?id=university.unication.pingpong&hl=en)**
@@ -42,6 +43,8 @@ I'm a senior Flutter developer with experience spanning full-cycle mobile and we
 
 **[Kiraala](https://onelink.to/kiraala.app)** — A peer-to-peer rental marketplace where users rent everyday items (electronics, gear, and more) instead of buying them, while owners earn income listing what they're not using. I'm building the mobile app with Flutter, BLoC, GetIt, go_router, Dio, Google Maps, ChottuLink for deep linking and Socket.IO for real-time messaging.
 
+**[freelancebid](https://freelancebid.lol)** — A pay-to-play leaderboard for freelancers. Submit your profile, bid to claim a rank, and get outbid by the next highest payer — a public leaderboard ranked purely by total amount paid, with category/service filtering, listing detail pages with platform verification badges, and a checkout flow for claiming/bidding on a rank. Built with Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS 4, and shadcn/ui components.
+
 **[Bulcar](https://bulcar.app)** — A carpooling platform connecting drivers and passengers traveling the same routes, splitting fuel and toll costs directly with real-time location tracking and verified profiles (similar to Uber/Martı TAG). I'm building both apps with Flutter, BLoC, and GetIt:
 - **Rider app** — for passengers to find and book shared rides
 - **Driver app** — for drivers to offer rides and manage trips
@@ -49,6 +52,7 @@ I'm a senior Flutter developer with experience spanning full-cycle mobile and we
 **[Fuxi](https://github.com/atakaneryldz/fuxi_app_open)** — Fuxi, a group shopping app for discovering and redeeming local deals. Built with Clean Architecture, BLoC, GetIt DI, go_router, and a modular feature-first structure.
 
 **[Taze Paket](https://github.com/atakaneryldz/tazepaket_app_open)** — A Flutter marketplace app for buying discounted, surplus end-of-day food. Built with Clean Architecture, BLoC, a custom Dio auth-refresh pipeline, and a full design-system component library.
+
 
 ## Side Projects
 
