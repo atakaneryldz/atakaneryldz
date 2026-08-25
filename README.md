@@ -10,9 +10,9 @@ I'm a senior Flutter developer with experience spanning full-cycle mobile and we
 - 📦 Building the mobile app for **[Kiraala](https://onelink.to/kiraala.app)**, a peer-to-peer rental marketplace
 - 🚗 Building **[Bulcar](https://bulcar.app)** — a carpooling platform with rider and driver apps, similar to Uber/Martı TAG
 - 🔭 Freelancing through **Andora Apps** — end-to-end mobile & web development for startups
-- 🤝 Builder at **[UHA AI Apps Studio](https://studio.buproject.net)**
-- 💼 Ex-**Co-founder & CEO** at Fuxi
-- 📱 Ex-**Mobile Team Lead** at Pingpong University
+- 🤖 Building AI-powered iOS apps — **[Tattooist](https://apps.apple.com/us/app/tattooist-ai-tattoo-design/id6744621155)**, **[Cevapla AI](https://apps.apple.com/tr/app/cevapla-ai-soru-%C3%A7%C3%B6z/id6742496559?l=tr)**, **[Insect Identifier](https://apps.apple.com/tr/app/insect-identifier-bug-ai/id6748743841?l=tr)**, and **[Relio AI](https://apps.apple.com/tr/app/relio-ai-contact-memory/id6779903795?l=tr)**
+- 💼 Ex-**Co-founder & CEO** at [Fuxi](https://onelink.to/d7nn5t)
+- 📱 Ex-**Mobile Team Lead** at [Pingpong University](https://play.google.com/store/apps/details?id=university.unication.pingpong&hl=en)
 - ⚙️ Ex-**Co-founder & CTO** at Getarf Logistic (acquired by Lojimod)
 - 👨‍💻 Ex-**Senior Flutter Developer** at Lojimod
 - 🏗️ I build apps end-to-end — architecture, UI, backend integration, release
@@ -47,10 +47,18 @@ I'm a senior Flutter developer with experience spanning full-cycle mobile and we
 - **Rider app** — for passengers to find and book shared rides
 - **Driver app** — for drivers to offer rides and manage trips
 
-**[fuxi_app_open](https://github.com/atakaneryldz/fuxi_app_open)** — Fuxi, a group shopping app for discovering and redeeming local deals. Built with Clean Architecture, BLoC, GetIt DI, go_router, and a modular feature-first structure.
+**[Fuxi](https://github.com/atakaneryldz/fuxi_app_open)** — Fuxi, a group shopping app for discovering and redeeming local deals. Built with Clean Architecture, BLoC, GetIt DI, go_router, and a modular feature-first structure.
 
-**[tazepaket_app_open](https://github.com/atakaneryldz/tazepaket_app_open)** — A Flutter marketplace app for buying discounted, surplus end-of-day food. Built with Clean Architecture, BLoC, a custom Dio auth-refresh pipeline, and a full design-system component library.
+**[Taze Paket](https://github.com/atakaneryldz/tazepaket_app_open)** — A Flutter marketplace app for buying discounted, surplus end-of-day food. Built with Clean Architecture, BLoC, a custom Dio auth-refresh pipeline, and a full design-system component library.
 
+## Side Projects
+
+Independent AI-powered iOS apps I've built and shipped:
+
+- 🎨 **[Tattooist - AI Tattoo Design](https://apps.apple.com/us/app/tattooist-ai-tattoo-design/id6744621155)** — Generates custom tattoo designs from text prompts and reference images using AI
+- 📚 **[Cevapla AI - Soru Çöz](https://apps.apple.com/tr/app/cevapla-ai-soru-%C3%A7%C3%B6z/id6742496559?l=tr)** — An AI study assistant that answers homework and exam questions from photos
+- 🐞 **[Insect Identifier: Bug AI](https://apps.apple.com/tr/app/insect-identifier-bug-ai/id6748743841?l=tr)** — Identifies insects and bugs from photos using AI image recognition
+- 🧠 **[Relio AI: Contact Memory](https://apps.apple.com/tr/app/relio-ai-contact-memory/id6779903795?l=tr)** — An AI-powered contact manager that helps remember details and context about the people you know
 
 ## Connect
 
