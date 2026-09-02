@@ -1,6 +1,6 @@
 # Hi 👋, I'm Atakan.
 
-### 💻 Senior Full-Stack Developer
+### 💻 Senior Software Engineer
 
 🎂 29 years old · 🛠️ 7 years of professional experience
 
