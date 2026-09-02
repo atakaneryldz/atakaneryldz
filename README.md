@@ -19,7 +19,7 @@ I'm a senior Flutter developer with experience spanning full-cycle mobile and we
 - 🌐 I also design and build professional websites and web apps with Next.js and React
 - 🍏 Native iOS development with Swift
 - 💬 Ask me about Flutter, Clean Architecture, BLoC, Next.js, React, and mobile/web app architecture
-- 📩 Reach me at **atakaneryldz@gmail.com** or on **[LinkedIn](https://linkedin.com/in/atakaneryldz)**
+- 📩 Reach me at **atakaneryldz@gmail.com**, on **[LinkedIn](https://linkedin.com/in/atakaneryldz)**, or on **[X (Twitter)](https://x.com/atakaneryildiz)**
 - 💼 **Open for freelance projects**
 
 ## Tech Stack
@@ -66,4 +66,5 @@ Independent AI-powered iOS apps I've built and shipped:
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atakaneryldz)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/atakaneryildiz)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atakaneryldz@gmail.com)
